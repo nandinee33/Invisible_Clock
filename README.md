@@ -15,7 +15,7 @@ There are two steps to make this project:
   
   Now everytime when i wear this clothe i became invisible 
   
-  ##### Basically how I do this? 
+  #### Basically how I do this? 
   
   I remove all the pixels on the screen where we have the color that I choose and replace it with the image that I previously set.
   
